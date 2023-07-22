@@ -1,0 +1,15 @@
+.banner-login {
+    width: 400px;
+    height: 200px;
+    background: url("images/contact.jpg") top no-repeat;
+    background-size: cover;
+}
+
+.container-form {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    min-height: 100vh;
+}
